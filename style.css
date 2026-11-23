@@ -22,7 +22,11 @@ body {
   margin: 0;
   padding: 2rem;
   background:
-    radial-gradient(ellipse at 15% 0%, rgba(221, 233, 223, 0.6), transparent 48%),
+    radial-gradient(
+      ellipse at 15% 0%,
+      rgba(221, 233, 223, 0.6),
+      transparent 48%
+    ),
     linear-gradient(135deg, #f8f8f5 0%, #edf1ee 100%);
   background-attachment: fixed;
 }
