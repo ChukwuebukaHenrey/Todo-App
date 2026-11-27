@@ -14,7 +14,7 @@ export default {
   devtool: "eval-source-map",
 
   devServer: {
-    port: 8080,
+    port: 8081,
     hot: true,
     watchFiles: ["./src/index.html"],
   },
